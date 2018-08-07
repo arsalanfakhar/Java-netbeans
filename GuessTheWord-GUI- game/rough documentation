@@ -1,0 +1,14 @@
+Introduction
+Our project will be a game of guessing words which will consist of different difficulty levels and it will be for the player/user to
+complete the word while some words will be shown.
+
+Team Members
+	Arsalan Fakhar Siddiqui (Developer)
+	Ali (Designer)
+
+Abstract
+The user interface of the game will be based on Java Swing UI. At the beginning there will be option for user to Start new game or to
+resume game and will be asked to select a difficulty level. There would be 10 levels, each level be unlocked if desired number of
+stars (2 stars) are obtained. In each level there would be option for hint and going back to main panel.
+
+
